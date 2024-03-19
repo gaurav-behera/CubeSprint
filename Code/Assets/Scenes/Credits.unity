@@ -515,7 +515,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Made by Hacking Club 0x1337
+  m_text: Made by Gaurav Behera
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c22da37b006ea424da3ae06d526b274a, type: 2}
   m_sharedMaterial: {fileID: 6755857918196715503, guid: c22da37b006ea424da3ae06d526b274a, type: 2}
